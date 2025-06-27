@@ -1,0 +1,201 @@
+,FECHA,NOMBRE_DIA,PRECIO_UNITARIO,UNIDADES_REALES,TEMP_MAX,TEMP_MIN,HUMEDAD,CONDICION,CATEGORIA,REGION
+0,2025-06-03,Saturday,770,26,27,23,40,Soleado,Pote Individual,Región Metropolitana
+1,2025-06-15,Thursday,740,23,17,12,82,Chubascos,Pote Individual,Región de Los Ríos
+2,2025-06-08,Thursday,550,27,12,6,89,Lluvia,Paleta,Región Metropolitana
+3,2025-06-08,Thursday,600,13,12,6,89,Lluvia,Paleta,Región Metropolitana
+4,2025-06-03,Saturday,950,21,27,23,40,Soleado,Tarrina Individual,Región Metropolitana
+5,2025-06-11,Sunday,550,18,12,8,77,Chubascos,Paleta,Región Metropolitana
+6,2025-06-15,Thursday,740,7,17,12,82,Chubascos,Pote Individual,Región Metropolitana
+7,2025-06-18,Sunday,740,26,24,16,68,Soleado,Pote Individual,Región de Coquimbo
+8,2025-06-19,Monday,1080,10,29,22,52,Parcialmente nublado,Helado Doble,Región de Los Ríos
+9,2025-06-05,Monday,800,5,16,8,84,Chubascos,Pote Individual,Región de Coquimbo
+10,2025-06-04,Sunday,550,8,23,15,59,Parcialmente nublado,Paleta,Región Metropolitana
+11,2025-06-14,Wednesday,1050,15,24,20,59,Nublado,Helado Doble,Región Metropolitana
+12,2025-06-15,Thursday,740,20,17,12,82,Chubascos,Pote Individual,Región de Coquimbo
+13,2025-06-01,Thursday,570,20,16,10,47,Soleado,Paleta,Región Metropolitana
+14,2025-06-11,Sunday,850,16,12,8,77,Chubascos,Pote Individual,Región Metropolitana
+15,2025-06-01,Thursday,790,27,16,10,47,Soleado,Pote Individual,Región Metropolitana
+16,2025-06-04,Sunday,550,23,23,15,59,Parcialmente nublado,Paleta,Región Metropolitana
+17,2025-06-07,Wednesday,1080,27,21,15,43,Parcialmente nublado,Helado Doble,Región Metropolitana
+18,2025-06-17,Saturday,840,13,18,12,52,Parcialmente nublado,Pote Individual,Región Metropolitana
+19,2025-06-04,Sunday,1150,29,23,15,59,Parcialmente nublado,Helado Doble,Región Metropolitana
+20,2025-06-08,Thursday,760,21,12,6,89,Lluvia,Pote Individual,Región Metropolitana
+21,2025-06-03,Saturday,550,5,27,23,40,Soleado,Paleta,Región de Los Lagos
+22,2025-06-18,Sunday,770,24,24,16,68,Soleado,Pote Individual,Región Metropolitana
+23,2025-06-18,Sunday,740,19,24,16,68,Soleado,Pote Individual,Región Metropolitana
+24,2025-06-14,Wednesday,950,20,24,20,59,Nublado,Tarrina Individual,Región Metropolitana
+25,2025-06-07,Wednesday,1050,24,21,15,43,Parcialmente nublado,Helado Doble,Región Metropolitana
+26,2025-06-15,Thursday,1150,6,17,12,82,Chubascos,Helado Doble,Región de Coquimbo
+27,2025-06-03,Saturday,750,21,27,23,40,Soleado,Pote Individual,Región Metropolitana
+28,2025-06-19,Monday,750,5,29,22,52,Parcialmente nublado,Pote Individual,Región Metropolitana
+29,2025-06-02,Friday,720,4,27,23,61,Parcialmente nublado,Pote Individual,Región Metropolitana
+30,2025-06-03,Saturday,760,11,27,23,40,Soleado,Pote Individual,Región de Coquimbo
+31,2025-06-07,Wednesday,770,26,21,15,43,Parcialmente nublado,Pote Individual,Región de Coquimbo
+32,2025-06-19,Monday,760,28,29,22,52,Parcialmente nublado,Pote Individual,Región de Los Lagos
+33,2025-06-14,Wednesday,820,6,24,20,59,Nublado,Pote Individual,Región Metropolitana
+34,2025-06-12,Monday,1140,17,21,17,52,Soleado,Helado Doble,Región de Los Ríos
+35,2025-06-02,Friday,790,15,27,23,61,Parcialmente nublado,Pote individual,Región Metropolitana
+36,2025-06-04,Sunday,700,9,23,15,59,Parcialmente nublado,Pote Individual,Región Metropolitana
+37,2025-06-05,Monday,800,11,16,8,84,Chubascos,Pote Individual,Región de Los Ríos
+38,2025-06-03,Saturday,600,30,27,23,40,Soleado,Paleta,Región de Los Lagos
+39,2025-06-04,Sunday,550,20,23,15,59,Parcialmente nublado,Paleta,Región Metropolitana
+40,2025-06-03,Saturday,800,16,27,23,40,Soleado,Pote Individual,Región Metropolitana
+41,2025-06-07,Wednesday,1150,4,21,15,43,Parcialmente nublado,Helado Doble,Región de Los Ríos
+42,2025-06-01,Thursday,740,28,16,10,47,Soleado,Pote Individual,Región de Los Ríos
+43,2025-06-10,Saturday,590,26,27,19,68,Soleado,Paleta,Región de Los Ríos
+44,2025-06-18,Sunday,770,9,24,16,68,Soleado,Pote Individual,Región de Los Lagos
+45,2025-06-02,Friday,790,26,27,23,61,Parcialmente nublado,Pote individual,Región de Coquimbo
+46,2025-06-02,Friday,790,30,27,23,61,Parcialmente nublado,Pote Individual,Región de Los Lagos
+47,2025-06-02,Friday,720,30,27,23,61,Parcialmente nublado,Pote Individual,Región de Coquimbo
+48,2025-06-20,Tuesday,570,30,21,16,47,Parcialmente nublado,Paleta,Región Metropolitana
+49,2025-06-04,Sunday,820,22,23,15,59,Parcialmente nublado,Pote Individual,Región Metropolitana
+50,2025-06-03,Saturday,570,21,27,23,40,Soleado,Paleta,Región de Los Ríos
+51,2025-06-11,Sunday,700,24,12,8,77,Chubascos,Pote Individual,Región Metropolitana
+52,2025-06-08,Thursday,1050,7,12,6,89,Lluvia,Helado Doble,Región Metropolitana
+53,2025-06-10,Saturday,1100,27,27,19,68,Soleado,Helado Doble,Región de Los Lagos
+54,2025-06-01,Thursday,840,21,16,10,47,Soleado,Pote Individual,Región de Los Lagos
+55,2025-06-03,Saturday,700,19,27,23,40,Soleado,Pote Individual,Región de Coquimbo
+56,2025-06-12,Monday,1150,10,21,17,52,Soleado,Helado Doble,Región Metropolitana
+57,2025-06-06,Tuesday,550,20,22,15,50,Soleado,Paleta,Región de Los Lagos
+58,2025-06-20,Tuesday,750,24,21,16,47,Parcialmente nublado,Pote Individual,Región de Coquimbo
+59,2025-06-10,Saturday,1150,7,27,19,68,Soleado,Helado Doble,Región Metropolitana
+60,2025-06-04,Sunday,770,11,23,15,59,Parcialmente nublado,Pote Individual,Región de Coquimbo
+61,2025-06-07,Wednesday,700,24,21,15,43,Parcialmente nublado,Pote Individual,Región Metropolitana
+62,2025-06-09,Friday,800,11,32,24,43,Soleado,Pote Individual,Región de Coquimbo
+63,2025-06-02,Friday,550,16,27,23,61,Parcialmente nublado,Paleta,Región Metropolitana
+64,2025-06-02,Friday,1100,27,27,23,61,Parcialmente nublado,Helado Doble,Región Metropolitana
+65,2025-06-09,Friday,580,17,32,24,43,Soleado,Paleta,Región Metropolitana
+66,2025-06-14,Wednesday,750,6,24,20,59,Nublado,Pote Individual,Región de Coquimbo
+67,2025-06-05,Monday,790,29,16,8,84,Chubascos,Pote individual,Región de Coquimbo
+68,2025-06-18,Sunday,1140,7,24,16,68,Soleado,Helado Doble,Región Metropolitana
+69,2025-06-12,Monday,1150,14,21,17,52,Soleado,Helado Doble,Región Metropolitana
+70,2025-06-08,Thursday,1080,27,12,6,89,Lluvia,Helado Doble,Región Metropolitana
+71,2025-06-14,Wednesday,950,10,24,20,59,Nublado,Tarrina Individual,Región Metropolitana
+72,2025-06-06,Tuesday,750,8,22,15,50,Soleado,Pote Individual,Región de Los Ríos
+73,2025-06-11,Sunday,600,24,12,8,77,Chubascos,Paleta,Región de Los Ríos
+74,2025-06-08,Thursday,800,28,12,6,89,Lluvia,Pote Individual,Región Metropolitana
+75,2025-06-13,Tuesday,850,18,21,15,81,Lluvia,Pote Individual,Región Metropolitana
+76,2025-06-15,Thursday,850,29,17,12,82,Chubascos,Pote Individual,Región Metropolitana
+77,2025-06-08,Thursday,750,24,12,6,89,Lluvia,Pote Individual,Región Metropolitana
+78,2025-06-11,Sunday,850,5,12,8,77,Chubascos,Pote Individual,Región Metropolitana
+79,2025-06-09,Friday,550,19,32,24,43,Soleado,Paleta,Región Metropolitana
+80,2025-06-18,Sunday,750,6,24,16,68,Soleado,Pote Individual,Región Metropolitana
+81,2025-06-09,Friday,820,11,32,24,43,Soleado,Pote Individual,Región Metropolitana
+82,2025-06-20,Tuesday,1080,26,21,16,47,Parcialmente nublado,Helado Doble,Región de Los Ríos
+83,2025-06-14,Wednesday,820,15,24,20,59,Nublado,Pote Individual,Región de Coquimbo
+84,2025-06-07,Wednesday,790,25,21,15,43,Parcialmente nublado,Pote individual,Región Metropolitana
+85,2025-06-17,Saturday,570,26,18,12,52,Parcialmente nublado,Paleta,Región de Coquimbo
+86,2025-06-07,Wednesday,1140,5,21,15,43,Parcialmente nublado,Helado Doble,Región Metropolitana
+87,2025-06-11,Sunday,570,30,12,8,77,Chubascos,Paleta,Región Metropolitana
+88,2025-06-10,Saturday,850,24,27,19,68,Soleado,Pote Individual,Región de Coquimbo
+89,2025-06-13,Tuesday,770,7,21,15,81,Lluvia,Pote Individual,Región Metropolitana
+90,2025-06-13,Tuesday,840,21,21,15,81,Lluvia,Pote Individual,Región Metropolitana
+91,2025-06-18,Sunday,850,12,24,16,68,Soleado,Pote Individual,Región Metropolitana
+92,2025-06-19,Monday,1150,17,29,22,52,Parcialmente nublado,Helado Doble,Región Metropolitana
+93,2025-06-07,Wednesday,800,28,21,15,43,Parcialmente nublado,Pote Individual,Región de Coquimbo
+94,2025-06-06,Tuesday,850,19,22,15,50,Soleado,Pote Individual,Región Metropolitana
+95,2025-06-20,Tuesday,720,29,21,16,47,Parcialmente nublado,Pote Individual,Región Metropolitana
+96,2025-06-08,Thursday,760,28,12,6,89,Lluvia,Pote Individual,Región Metropolitana
+97,2025-06-01,Thursday,760,18,16,10,47,Soleado,Pote Individual,Región Metropolitana
+98,2025-06-03,Saturday,1140,23,27,23,40,Soleado,Helado Doble,Región de Los Lagos
+99,2025-06-13,Tuesday,1050,10,21,15,81,Lluvia,Helado Doble,Región de Los Lagos
+100,2025-06-01,Thursday,560,16,16,10,47,Soleado,Paleta,Región Metropolitana
+101,2025-06-17,Saturday,790,20,18,12,52,Parcialmente nublado,Pote individual,Región de Los Lagos
+102,2025-06-04,Sunday,770,28,23,15,59,Parcialmente nublado,Pote Individual,Región de Los Lagos
+103,2025-06-17,Saturday,840,13,18,12,52,Parcialmente nublado,Pote Individual,Región de Coquimbo
+104,2025-06-15,Thursday,1140,29,17,12,82,Chubascos,Helado Doble,Región de Coquimbo
+105,2025-06-15,Thursday,580,30,17,12,82,Chubascos,Paleta,Región Metropolitana
+106,2025-06-09,Friday,550,23,32,24,43,Soleado,Paleta,Región Metropolitana
+107,2025-06-17,Saturday,550,10,18,12,52,Parcialmente nublado,Paleta,Región de Los Lagos
+108,2025-06-03,Saturday,760,11,27,23,40,Soleado,Pote Individual,Región Metropolitana
+109,2025-06-18,Sunday,770,7,24,16,68,Soleado,Pote Individual,Región Metropolitana
+110,2025-06-05,Monday,720,16,16,8,84,Chubascos,Pote Individual,Región Metropolitana
+111,2025-06-18,Sunday,1140,4,24,16,68,Soleado,Helado Doble,Región de Los Lagos
+112,2025-06-14,Wednesday,1150,27,24,20,59,Nublado,Helado Doble,Región de Los Ríos
+113,2025-06-01,Thursday,800,3,16,10,47,Soleado,Pote Individual,Región de Los Ríos
+114,2025-06-10,Saturday,850,29,27,19,68,Soleado,Pote Individual,Región de Los Ríos
+115,2025-06-18,Sunday,800,10,24,16,68,Soleado,Pote Individual,Región Metropolitana
+116,2025-06-16,Friday,1050,13,14,8,94,Lluvia,Helado Doble,Región Metropolitana
+117,2025-06-13,Tuesday,550,17,21,15,81,Lluvia,Paleta,Región Metropolitana
+118,2025-06-20,Tuesday,750,15,21,16,47,Parcialmente nublado,Pote Individual,Región de Coquimbo
+119,2025-06-01,Thursday,550,16,16,10,47,Soleado,Paleta,Región Metropolitana
+120,2025-06-15,Thursday,790,11,17,12,82,Chubascos,Pote individual,Región Metropolitana
+121,2025-06-07,Wednesday,1100,13,21,15,43,Parcialmente nublado,Helado Doble,Región de Los Lagos
+122,2025-06-13,Tuesday,560,29,21,15,81,Lluvia,Paleta,Región Metropolitana
+123,2025-06-03,Saturday,750,26,27,23,40,Soleado,Pote Individual,Región de Los Lagos
+124,2025-06-12,Monday,550,5,21,17,52,Soleado,Paleta,Región Metropolitana
+125,2025-06-02,Friday,760,9,27,23,61,Parcialmente nublado,Pote Individual,Región Metropolitana
+126,2025-06-20,Tuesday,760,7,21,16,47,Parcialmente nublado,Pote Individual,Región Metropolitana
+127,2025-06-04,Sunday,1150,25,23,15,59,Parcialmente nublado,Helado Doble,Región Metropolitana
+128,2025-06-12,Monday,840,22,21,17,52,Soleado,Pote Individual,Región Metropolitana
+129,2025-06-04,Sunday,850,6,23,15,59,Parcialmente nublado,Pote Individual,Región Metropolitana
+130,2025-06-10,Saturday,1050,25,27,19,68,Soleado,Helado Doble,Región de Los Ríos
+131,2025-06-19,Monday,820,25,29,22,52,Parcialmente nublado,Pote Individual,Región Metropolitana
+132,2025-06-20,Tuesday,600,21,21,16,47,Parcialmente nublado,Paleta,Región Metropolitana
+133,2025-06-12,Monday,1140,24,21,17,52,Soleado,Helado Doble,Región de Coquimbo
+134,2025-06-17,Saturday,750,30,18,12,52,Parcialmente nublado,Pote Individual,Región Metropolitana
+135,2025-06-16,Friday,1140,14,14,8,94,Lluvia,Helado Doble,Región Metropolitana
+136,2025-06-15,Thursday,1140,8,17,12,82,Chubascos,Helado Doble,Región Metropolitana
+137,2025-06-09,Friday,560,18,32,24,43,Soleado,Paleta,Región de Coquimbo
+138,2025-06-19,Monday,1100,30,29,22,52,Parcialmente nublado,Helado Doble,Región Metropolitana
+139,2025-06-03,Saturday,1150,17,27,23,40,Soleado,Helado Doble,Región Metropolitana
+140,2025-06-15,Thursday,1100,3,17,12,82,Chubascos,Helado Doble,Región de Los Ríos
+141,2025-06-11,Sunday,800,9,12,8,77,Chubascos,Pote Individual,Región Metropolitana
+142,2025-06-09,Friday,740,22,32,24,43,Soleado,Pote Individual,Región Metropolitana
+143,2025-06-09,Friday,750,19,32,24,43,Soleado,Pote Individual,Región de Coquimbo
+144,2025-06-03,Saturday,580,16,27,23,40,Soleado,Paleta,Región Metropolitana
+145,2025-06-08,Thursday,550,25,12,6,89,Lluvia,Paleta,Región de Los Lagos
+146,2025-06-01,Thursday,850,10,16,10,47,Soleado,Pote Individual,Región Metropolitana
+147,2025-06-08,Thursday,570,21,12,6,89,Lluvia,Paleta,Región Metropolitana
+148,2025-06-18,Sunday,1080,16,24,16,68,Soleado,Helado Doble,Región de Coquimbo
+149,2025-06-18,Sunday,1080,25,24,16,68,Soleado,Helado Doble,Región Metropolitana
+150,2025-06-10,Saturday,760,6,27,19,68,Soleado,Pote Individual,Región Metropolitana
+151,2025-06-11,Sunday,580,20,12,8,77,Chubascos,Paleta,Región Metropolitana
+152,2025-06-06,Tuesday,700,26,22,15,50,Soleado,Pote Individual,Región Metropolitana
+153,2025-06-19,Monday,840,12,29,22,52,Parcialmente nublado,Pote Individual,Región de Coquimbo
+154,2025-06-07,Wednesday,760,14,21,15,43,Parcialmente nublado,Pote Individual,Región Metropolitana
+155,2025-06-01,Thursday,770,11,16,10,47,Soleado,Pote Individual,Región de Coquimbo
+156,2025-06-02,Friday,850,25,27,23,61,Parcialmente nublado,Pote Individual,Región de Coquimbo
+157,2025-06-16,Friday,850,3,14,8,94,Lluvia,Pote Individual,Región Metropolitana
+158,2025-06-16,Friday,1150,13,14,8,94,Lluvia,Helado Doble,Región de Los Lagos
+159,2025-06-02,Friday,850,18,27,23,61,Parcialmente nublado,Pote Individual,Región Metropolitana
+160,2025-06-03,Saturday,800,5,27,23,40,Soleado,Pote Individual,Región de Los Ríos
+161,2025-06-02,Friday,770,28,27,23,61,Parcialmente nublado,Pote Individual,Región Metropolitana
+162,2025-06-10,Saturday,760,6,27,19,68,Soleado,Pote Individual,Región Metropolitana
+163,2025-06-14,Wednesday,560,19,24,20,59,Nublado,Paleta,Región Metropolitana
+164,2025-06-15,Thursday,850,21,17,12,82,Chubascos,Pote Individual,Región Metropolitana
+165,2025-06-10,Saturday,840,26,27,19,68,Soleado,Pote Individual,Región Metropolitana
+166,2025-06-07,Wednesday,740,24,21,15,43,Parcialmente nublado,Pote Individual,Región Metropolitana
+167,2025-06-08,Thursday,770,5,12,6,89,Lluvia,Pote Individual,Región Metropolitana
+168,2025-06-14,Wednesday,590,22,24,20,59,Nublado,Paleta,Región de Los Lagos
+169,2025-06-02,Friday,850,25,27,23,61,Parcialmente nublado,Pote Individual,Región Metropolitana
+170,2025-06-15,Thursday,570,10,17,12,82,Chubascos,Paleta,Región Metropolitana
+171,2025-06-19,Monday,1140,6,29,22,52,Parcialmente nublado,Helado Doble,Región Metropolitana
+172,2025-06-05,Monday,550,7,16,8,84,Chubascos,Paleta,Región Metropolitana
+173,2025-06-06,Tuesday,840,26,22,15,50,Soleado,Pote Individual,Región Metropolitana
+174,2025-06-10,Saturday,820,17,27,19,68,Soleado,Pote Individual,Región de Los Lagos
+175,2025-06-13,Tuesday,790,20,21,15,81,Lluvia,Pote Individual,Región Metropolitana
+176,2025-06-03,Saturday,1150,16,27,23,40,Soleado,Helado Doble,Región Metropolitana
+177,2025-06-20,Tuesday,750,5,21,16,47,Parcialmente nublado,Pote Individual,Región Metropolitana
+178,2025-06-19,Monday,560,24,29,22,52,Parcialmente nublado,Paleta,Región Metropolitana
+179,2025-06-19,Monday,560,27,29,22,52,Parcialmente nublado,Paleta,Región Metropolitana
+180,2025-06-17,Saturday,950,11,18,12,52,Parcialmente nublado,Tarrina Individual,Región de Los Lagos
+181,2025-06-19,Monday,550,29,29,22,52,Parcialmente nublado,Paleta,Región de Los Ríos
+182,2025-06-03,Saturday,1080,16,27,23,40,Soleado,Helado Doble,Región de Los Lagos
+183,2025-06-04,Sunday,1100,16,23,15,59,Parcialmente nublado,Helado Doble,Región Metropolitana
+184,2025-06-10,Saturday,550,27,27,19,68,Soleado,Paleta,Región de Los Ríos
+185,2025-06-15,Thursday,1100,11,17,12,82,Chubascos,Helado Doble,Región Metropolitana
+186,2025-06-13,Tuesday,550,3,21,15,81,Lluvia,Paleta,Región de Coquimbo
+187,2025-06-18,Sunday,1140,4,24,16,68,Soleado,Helado Doble,Región de Los Lagos
+188,2025-06-12,Monday,550,17,21,17,52,Soleado,Paleta,Región de Los Lagos
+189,2025-06-07,Wednesday,770,7,21,15,43,Parcialmente nublado,Pote Individual,Región Metropolitana
+190,2025-06-15,Thursday,820,3,17,12,82,Chubascos,Pote Individual,Región de Los Lagos
+191,2025-06-20,Tuesday,590,8,21,16,47,Parcialmente nublado,Paleta,Región Metropolitana
+192,2025-06-01,Thursday,1140,5,16,10,47,Soleado,Helado Doble,Región de Coquimbo
+193,2025-06-04,Sunday,820,23,23,15,59,Parcialmente nublado,Pote Individual,Región de Los Lagos
+194,2025-06-16,Friday,790,25,14,8,94,Lluvia,Pote Individual,Región Metropolitana
+195,2025-06-16,Friday,760,17,14,8,94,Lluvia,Pote Individual,Región de Los Lagos
+196,2025-06-13,Tuesday,950,22,21,15,81,Lluvia,Tarrina Individual,Región Metropolitana
+197,2025-06-05,Monday,740,27,16,8,84,Chubascos,Pote Individual,Región Metropolitana
+198,2025-06-14,Wednesday,950,28,24,20,59,Nublado,Tarrina Individual,Región Metropolitana
+199,2025-06-01,Thursday,580,12,16,10,47,Soleado,Paleta,Región Metropolitana

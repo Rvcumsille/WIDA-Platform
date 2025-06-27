@@ -51,7 +51,15 @@ try:
         forecast_data = response_forecast.json()
         df_forecast = pd.DataFrame(forecast_data)
 
-        # Agregar predicción de ventas a cada fila
+        from datetime import datetime
+
+        # Convertir columna Fecha a datetime (por si viene como string)
+        df_forecast["Fecha"] = pd.to_datetime(df_forecast["Fecha"]).dt.date
+
+        # Filtrar: eliminar la predicción de hoy
+        hoy = datetime.today().date()
+        df_forecast = df_forecast[df_forecast["Fecha"] > hoy]
+
         from predictor import predecir_ventas
         df_forecast["Ventas_Predichas"] = df_forecast["Temp_Max_C"].apply(predecir_ventas)
 

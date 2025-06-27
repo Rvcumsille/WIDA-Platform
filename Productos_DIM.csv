@@ -1,0 +1,31 @@
+SK_PRODUCTO,ID_PRODUCTO,SABOR_PRODUCTO,CATEGORIA,COSTO_UNITARIO,PRECIO_UNITARIO
+1,1001,Frutilla,Pote Individual,650,750
+2,1002,Chocolate,Pote individual,670,790
+3,1003,Vainilla,Pote Individual,600,720
+4,1004,Menta Chips,Pote Individual,690,820
+5,1005,Frambuesa,Pote Individual,660,770
+6,1006,Dulce de Leche,Pote Individual,680,800
+7,1007,Limón,Pote Individual,590,700
+8,1008,Coco,Pote Individual,640,760
+9,1009,Maracuyá,Pote Individual,625,740
+10,1010,Cookies & Cream,Pote Individual,710,850
+11,1011,Pistacho,Helado Doble,950,1100
+12,1012,Mora,Helado Doble,940,1080
+13,1013,Mango,Helado Doble,920,1050
+14,1014,Café,Helado Doble,960,1140
+15,1015,Chocolate Blanco,Helado Doble,970,1150
+16,1016,Naranja,Pote Individual,700,800
+17,1017,Uva,Pote Individual,690,790
+18,1018,Piña,Pote Individual,680,770
+19,1019,Kiwi,Pote Individual,710,820
+20,1020,Manjar,Pote Individual,720,840
+21,1021,Fresa Paleta,Paleta,480,550
+22,1022,Cereza Paleta,Paleta,490,570
+23,1023,Maracuyá Paleta,Paleta,500,590
+24,1024,Frambuesa Paleta,Paleta,495,580
+25,1025,Menta Paleta,Paleta,485,560
+26,1026,Coco Paleta,Paleta,505,600
+27,1027,Limón Paleta,Paleta,475,550
+28,1028,Mix Berries,Pote Individual,730,850
+29,1029,Cappuccino,Helado Doble,990,1150
+30,1030,Trufa Negra,Tarrina Individual,800,950
